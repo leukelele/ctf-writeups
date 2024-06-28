@@ -1,6 +1,6 @@
 [Forensics](https://play.picoctf.org/practice/challenge/186?bookmarked=1&page=1)
 > Files can always be changed in a secret way. Can you find the flag? cat.jpg
-- [cat.jpg](./cat.jpg)
+[cat.jpg](./cat.jpg)
 
 # Writeup
 My first thought was to run `strings` and `grep` to check if the flag was hidden as a printable string in the file.
