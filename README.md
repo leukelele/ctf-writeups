@@ -1,5 +1,4 @@
-# List of Completed CTFs
-I typically prefer to document my writeups in my own notebook. This list contains the specific notes relating to picoCTF.
+# CTF Writeups
 
 ## PicoCTF 
 ### Easy
